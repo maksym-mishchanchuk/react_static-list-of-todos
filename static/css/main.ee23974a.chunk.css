@@ -1,0 +1,2 @@
+.todo__list{display:grid;grid-gap:10px;gap:10px;grid-template-columns:repeat(4,1fr);padding:0}.todo__item{margin:0;border-radius:5px;border:1px solid #32cd32;list-style:none;padding:5px;background:linear-gradient(90deg,#b5f27a 11%,#ff9d71 56%,#00d4ff 92%)}
+/*# sourceMappingURL=main.ee23974a.chunk.css.map */
